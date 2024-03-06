@@ -1,4 +1,5 @@
 # React + Vite
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e4e3c6f3-4f45-4057-9f79-a36f56d77eb7/deploy-status)](https://app.netlify.com/sites/summarize-article-ai-app/deploys)
 
 ![App screenshot](screenshots/summarize-article.png)
 
